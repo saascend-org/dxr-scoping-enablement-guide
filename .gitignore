@@ -1,0 +1,10 @@
+# Plaintext sources show real DXR Salesforce configuration - never commit them.
+# index.html in this repo is the ENCRYPTED gate; the readable page exists only inside it.
+build/index.plain.html
+content.py          # the guide text itself - the gate is pointless if this is public
+assets/img/01-opportunity.png
+assets/img/01-request-modal.png
+assets/img/02-scoping-document.png
+assets/img/03-client-form.png
+*.bak
+.DS_Store
